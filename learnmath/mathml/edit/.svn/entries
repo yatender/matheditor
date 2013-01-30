@@ -1,103 +1,0 @@
-8
-
-dir
-13
-http://mathmleditor.googlecode.com/svn/trunk/learnmath/mathml/edit
-http://mathmleditor.googlecode.com/svn
-
-
-
-2008-12-10T16:43:21.785373Z
-13
-ionel.alexandru
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-81ff7dd4-8bf3-11dd-abc6-8b02bc135b05
-
-input
-dir
-
-style
-dir
-
-DeleteUtil.as
-file
-
-
-
-
-2009-06-24T12:37:44.265091Z
-d26ba2f45501c986dc37124cb5c7f088
-2008-12-10T16:43:21.785373Z
-13
-ionel.alexandru
-
-text
-dir
-
-types
-dir
-
-DrawRectangle.as
-file
-
-
-
-
-2009-06-24T12:37:44.280716Z
-8e35047240274167a9d106afc1adf244
-2008-11-18T18:31:09.336796Z
-2
-ionel.alexandru
-
-DisplayMathML.as
-file
-
-
-
-
-2009-06-24T12:37:44.327591Z
-61b7abce8ccd221b7d712612b5935fd8
-2008-11-18T18:31:09.336796Z
-2
-ionel.alexandru
-
-CursorManager.as
-file
-
-
-
-
-2009-06-24T12:37:44.327591Z
-66c47b9723b5e80f2535c201829fb8d3
-2008-11-18T18:31:09.336796Z
-2
-ionel.alexandru
-
-SelectBox.as
-file
-
-
-
-
-2009-06-24T12:37:44.343216Z
-27e464f07f7aa206b8eb8eb896cb90d3
-2008-12-10T16:43:21.785373Z
-13
-ionel.alexandru
-
-operators
-dir
-
