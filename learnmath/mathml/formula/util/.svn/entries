@@ -1,0 +1,52 @@
+8
+
+dir
+13
+http://mathmleditor.googlecode.com/svn/trunk/learnmath/mathml/formula/util
+http://mathmleditor.googlecode.com/svn
+
+
+
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+81ff7dd4-8bf3-11dd-abc6-8b02bc135b05
+
+StringUtil.as
+file
+
+
+
+
+2009-06-24T12:37:50.952591Z
+8aadff63f0cbfe689cf4bae113095361
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+DrawUtil.as
+file
+
+
+
+
+2009-06-24T12:37:50.952591Z
+fd3fce5fe523204f0c2163aaa9ac038f
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+

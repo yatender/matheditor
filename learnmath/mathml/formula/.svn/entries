@@ -1,0 +1,115 @@
+8
+
+dir
+13
+http://mathmleditor.googlecode.com/svn/trunk/learnmath/mathml/formula
+http://mathmleditor.googlecode.com/svn
+
+
+
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+81ff7dd4-8bf3-11dd-abc6-8b02bc135b05
+
+token
+dir
+
+Style.as
+file
+
+
+
+
+2009-06-24T12:37:50.968216Z
+9950ce5d6c63e403440be7a04763048b
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+FontConstant.as
+file
+
+
+
+
+2009-06-24T12:37:50.983841Z
+ad0603bf7f062e048fa5021432f560c1
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+entities
+dir
+
+script
+dir
+
+DrawFormula.as
+file
+
+
+
+
+2009-06-24T12:37:50.983841Z
+9041a80f1cd51e15ad4ae6bad03265e5
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+EntityManager.as
+file
+
+
+
+
+2009-06-24T12:37:50.983841Z
+cc1bdf362c4d7e8fbd4fe979697e23a3
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+Box.as
+file
+
+
+
+
+2009-06-24T12:37:50.999466Z
+947656d140fca96db5643df520bfec31
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+ResizeBox.as
+file
+
+
+
+
+2009-06-24T12:37:51.046341Z
+a484710c86a5a42cb0feb25b67dcbc33
+2008-11-18T18:31:09.336796Z
+2
+ionel.alexandru
+
+layout
+dir
+
+util
+dir
+

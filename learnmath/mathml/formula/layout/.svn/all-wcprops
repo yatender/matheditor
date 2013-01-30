@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout
+END
+FencedBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/FencedBox.as
+END
+TrBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/TrBox.as
+END
+PhantomBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/PhantomBox.as
+END
+TdBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/TdBox.as
+END
+RowBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/RowBox.as
+END
+TableBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/TableBox.as
+END
+SqrtBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/SqrtBox.as
+END
+ErrorBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/ErrorBox.as
+END
+FracBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/FracBox.as
+END
+RootBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/layout/RootBox.as
+END

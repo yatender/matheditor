@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula
+END
+Style.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/Style.as
+END
+FontConstant.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/FontConstant.as
+END
+DrawFormula.as
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/DrawFormula.as
+END
+EntityManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/EntityManager.as
+END
+Box.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/Box.as
+END
+ResizeBox.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/learnmath/mathml/formula/ResizeBox.as
+END
